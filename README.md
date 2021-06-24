@@ -12,8 +12,9 @@ Learnt about Stateless and Stateful Flutter widgets.
 
 We’ll make a magical 8 ball app, it will give you the answers to all the tricky questions in life. You can make the ball change at the press of a button. 
 
-![Finished App]()
+![Finished App](https://user-images.githubusercontent.com/81528687/123212753-ce134980-d4e2-11eb-837a-0eeb7c1eed3b.gif)
 
 
 
-![End Banner]()
+![End Banner](https://user-images.githubusercontent.com/81528687/123212836-eb481800-d4e2-11eb-814f-24e20afa40d1.png)
+
